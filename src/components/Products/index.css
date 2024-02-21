@@ -1,0 +1,10 @@
+.product-logo {
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+}
+.product-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
